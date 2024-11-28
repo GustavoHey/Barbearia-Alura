@@ -5,8 +5,13 @@ Este é o projeto de um site de barbearia desenvolvido para o trabalho do colég
 O projeto consiste em um site responsivo para uma barbearia fictícia, apresentando os serviços oferecidos, informações sobre a equipe, galeria de fotos e formas de contato.
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
 
-## Autor
-Gustavo Henrique - [Meu GitHub](https://github.com/AR-SEED)
+- **[Tecnologias de desenvolvimento]**: HTML, CSS.
+
+## Contato
+
+Para mais informações, entre em contato com [gustavoheri.contato@gmail.com] ou [[Links](https://gustavohey.github.io/perfil/)].
+
+## Experiência
+
+Projeto básico de site dos cursos Alura.
